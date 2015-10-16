@@ -11,7 +11,7 @@
                     "pages"     : {
                         "map-title" : [
                               { "view"    : "views/map"   }
-                            , { "view"    : "views/issue" }
+                            , { "view"    : "views/issue" } 
                             , { "partial" : { "el"   : "#article"
                                             , "page" : "title.html" } }
                             , { "view"    : "views/menu"  }
