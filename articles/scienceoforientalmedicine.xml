@@ -6,20 +6,20 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Article title</title>
-            <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
+            <title>The Science of Oriental Medicine</title>
+            <author>Alia M.</author>
+            <author>Dan A.</author>
+            <author>Jonathan L.</author>
          </titleStmt>
          <publicationStmt>
             <publisher>Colleen Jaurretche</publisher>
-            <date when="2015">Fall 2015</date>
+            <date when="2014">Winter 2014</date>
          </publicationStmt>
          <notesStmt>
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
+                  <title>UCLA Special Collections</title>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -40,9 +40,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">Article title, Placename</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="environmentandscience">The Science of Oriental Medicine, Chinatown</placeName>
+            <geo>-118.25829399999998 34.04367450000001</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Book of Chinese medicine, published in Chinatown at end of 19th century.</p>
          </note>
          
          <div type="bibliography">
@@ -54,10 +54,10 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="../images/nameofimage.jpg"/>
-               <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
-               <figDesc></figDesc>
+               <graphic url="../images/orientalmedicine1.jpg"/>
+               <head>The Science of Oriental Medicine</head>
+               <note type="attribution">Foo and Wing Herb Company, 1897. Image courtesy of UCLA Library Special Collecitons.</note>
+               <figDesc>A photograph of the title page of chapter 7, with the title "Herbal Remedies."</figDesc>
             </figure>
             
          </div>
