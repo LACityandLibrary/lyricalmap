@@ -72,8 +72,7 @@
     "files"     : [
         "lyricalmap.xml",
         "hugoballin.xml",
-        "labreatarpits.xml",
-        "icefollies.xml"
+        "labreatarpits.xml"
       ]
    }
   , "markers" : {
