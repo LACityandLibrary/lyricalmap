@@ -72,7 +72,8 @@
     "files"     : [
         "lyricalmap.xml",
         "hugoballin.xml",
-        "labreatarpits.xml"
+        "labreatarpits.xml",
+        "mealsformillions.xml"
       ]
    }
   , "markers" : {
