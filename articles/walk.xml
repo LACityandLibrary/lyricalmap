@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Walk in  my shoes</title>
+            <author>Author 1</author>
+            <author>Author 2</author>
+            <author>Author 3</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Colleen Jaurretche</publisher>
+            <date when="2015">Fall 2015</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+                  <title>Los Angeles</title>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Walk walk walk walk walk</p>
+            <p>What do someone’s shoes tell us about them? Some would argue quite a bit.
+Others would argue that you need to actually spend some time inhabiting someone else’s shoes in order to really understand who they are and the journey they’ve been on.
+Kim Abeles, the artist behind the “Walk a Mile in My Shoes” public art installations at Jefferson Blvd./Rodeo Rd. and Rodeo Rd./Martin Luther King Jr. Blvd., seems to believe both are true</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="arts">Walk in my shoes, Rodeo at west MLK, Los Angeles </placeName>
+            <geo>-118.351819 34.021631</geo><!-- geocoordinates here. !! enter in the longitude first, then the lattitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Public Art installation of Martin Luther King's shoes</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>http://la.streetsblog.org/2014/07/18/lovely-art-installations-evoking-walking-placed-in-hard-to-walk-to-locations/</bibl>
+               <bibl>Citation 2...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="http://la.streetsblog.org/wp-content/uploads/sites/2/2014/07/IMGP3646-1024x680.jpg"/>
+               <head></head>
+               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
