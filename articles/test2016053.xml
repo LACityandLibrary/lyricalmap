@@ -7,8 +7,8 @@
                 <author> may 3rd 2016</author>
             </titleStmt>
             <publicationStmt>
-                <publisher>Colleen Jaurretche</publisher>
-                <date when="2015">Fall 2015</date>
+                <publisher>may 2016</publisher>
+                <date when="2016">Spring 2016</date>
             </publicationStmt>
             <notesStmt>
                 <relatedItem>
@@ -50,19 +50,19 @@
             
             <div type="images">
                 <figure xml:id="fig1">
-                    <graphic url="../images/lyrical1.jpg"/>
+                    <graphic url="../images/test2016053.jpg"/>
                     <head>Lyrical Map title</head>
                     <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Image of the hand-drawn title of the work. Reads: Lyrical map of the concept of Los Angeles. J. Michael Walker, 2011. Designer &amp; Cartographer.</figDesc>
                 </figure>
                 <figure xml:id="fig2">
-                    <graphic url="../images/lyrical2.jpg"/>
+                    <graphic url="../images/test2016053.jpg"/>
                     <head>Close up of Lyrical Map poem</head>
                     <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Conceptual drawing of female figure with a poem enclosed in the figure.</figDesc>
                 </figure>
                 <figure xml:id="fig1">
-                    <graphic url="../images/lyrical3.jpg"/>
+                    <graphic url="../images/test2016053.jpg"/>
                     <head>Father Boyle</head>
                     <note type="attribution">J. Michael Walker, 2011. Image courtesy of UCLA Digital Library.</note>
                     <figDesc>Drawing of Father Boyle with youth, reads: "Nothing stops a bullet like a job," Father Greg Boyle, Homeboy Industries.</figDesc>
